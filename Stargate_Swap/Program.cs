@@ -5,7 +5,7 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
 
 
-//Console.WriteLine(QueryBalance("363e3c87f6ffb3916dad71f2956bf5df5bd482b7d304208b7d0aff0223477f62").Result);
+
 string filePath = @"C:\Users\msinp\Desktop\odos.txt";
 
 try
